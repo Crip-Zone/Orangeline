@@ -4115,6 +4115,8 @@ h3.profile_hd::before,
 }
 .notify_dropdown span {
 	font-size: 0.9em;
+	display: block;
+	max-width: 500px;
 }
 
 /* Some new stuff */
